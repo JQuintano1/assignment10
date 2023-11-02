@@ -3,7 +3,6 @@ import java.util.regex.*;
 
 public class App {
     public static void main(String[] args) throws Exception {
-        int verifycount = 0;
         Scanner scnr = new Scanner(System.in);
 
         System.out.print("Please enter your password: ");
